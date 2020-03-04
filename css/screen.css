@@ -204,6 +204,14 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+body {
+  background-color: #DCDCDC;
+}
+
+h1 {
+  padding: 50px;
+}
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
