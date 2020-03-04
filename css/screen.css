@@ -210,6 +210,8 @@ body {
 
 h1 {
   padding: 50px;
+  text-align: center;
+  font-size: 3em;
 }
 
 /* ===== MODULAR STYLES ===== */
