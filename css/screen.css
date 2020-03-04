@@ -218,17 +218,27 @@ form {
   
 }
 
+label {
+  padding: 20px;
+}
+
 #input-email {
-  padding: 50px;
+  padding: 20px;
+  font-size: 2em;
 }
 
 #email {
   background-color: gray;
   padding: 20px;
+  
 }
 
 #input-age-verification {
-  padding: 50px;
+  padding: 20px;
+}
+
+#input-submit {
+  font-size: 2em;
 }
 
 /* ===== MODULAR STYLES ===== */
